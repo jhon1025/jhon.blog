@@ -1,26 +1,26 @@
 {
   "site": {
-    "title": "EV0 ",
+    "title": "Jhon Murcia ",
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
     "favicon": "/favicon.png",
-    "logoLight": "/logoLight.png",
-    "logoDark": "/logoDark.png",
+    "logoLight": "/JM-NEGRO.png",
+    "logoDark": "/JM-BLANCO.png",
     "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+    "description": "Frontend Developer y experto en Facebook Ads, creando experiencias web impactantes que convierten visitantes en ventas.",
     "pageSize": 6
   },
   "features": {
-    "youtube": true,
+    "youtube": false,
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "Jhon Murcia",
+    "meta_description": "Frontend Developer y experto en Facebook Ads, creando experiencias web impactantes que convierten visitantes en ventas."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
-    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "name": "Jhon Murcia",
+    "avatar": "/jhonMurcia-avatar.jpeg",
+    "bio": "Frontend Developer y experto en Facebook Ads, creando experiencias web impactantes que convierten visitantes en ventas."
   }
 }

@@ -5,16 +5,18 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "¿Quien soy?",
       "url": "/about"
     },
     {
-      "name": "Tags",
-      "url": "/tags"
+      "name": "blog",
+      "url": "/blog"
     },
+   
     {
-      "name": "Categories",
-      "url": "/categories"
+      "name": "Contacto",
+      "url": "/Contacto"
     }
+    
   ]
 }
